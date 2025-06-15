@@ -18,7 +18,7 @@ public class App {
 		se.setCr(cr);
 		// Displaying data using Get method in hibernate //
 
-		Student e = session.get(Student.class, 1);// is used to get data form database;
+		Student e = session.get(Student.class, 1);// is used to get data from database;
 		System.out.println(e);
 		
 		if (e != null) {

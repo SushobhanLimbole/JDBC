@@ -2,7 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\susho\OneDrive\Desktop\codex_jdbc\hibernate_project"/>
 			<item value="C:\Users\susho\OneDrive\Desktop\codex_jdbc"/>
+			<item value="C:\Users\susho\OneDrive\Desktop\codex_jdbc\maven_jdc_project"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -26,22 +28,19 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="details.project1"/>
-			<item value="test.hibernateCRUD"/>
-			<item value="maven_hibernate.hibernate_project"/>
-			<item value="maven_jdbc.maven_jdc_project"/>
+			<item value="com.example.hibernate_revision"/>
+			<item value="com.library.library_management"/>
+			<item value="com.library"/>
+			<item value="com.example.student_management"/>
 		</list>
 		<list key="groupId">
-			<item value="details"/>
-			<item value="test"/>
-			<item value="maven_hibernate"/>
-			<item value="maven_jdbc"/>
+			<item value="com.example"/>
+			<item value="com.library"/>
 		</list>
 		<list key="artifactId">
-			<item value="project1"/>
-			<item value="hibernateCRUD"/>
-			<item value="hibernate_project"/>
-			<item value="maven_jdc_project"/>
+			<item value="hibernate_revision"/>
+			<item value="library_management"/>
+			<item value="student_management"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
